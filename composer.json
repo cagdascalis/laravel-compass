@@ -17,8 +17,7 @@
         "php": "^7.3|^8.2",
         "illuminate/console": "^6.0|^7.0|^8.2",
         "illuminate/routing": "^6.0|^7.0|^8.2",
-        "illuminate/support": "^6.0|^7.0|^8.2",
-        "mpociot/documentarian": "dev-master"
+        "illuminate/support": "^6.0|^7.0|^8.2"
     },
     "require-dev": {},
     "autoload": {
